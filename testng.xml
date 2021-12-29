@@ -4,6 +4,7 @@
 	<test name="User Tests">
 		<classes>
 			<class name="Test1" />
+			<class name="Test2" />
 		</classes>
 	</test>
 </suite>
